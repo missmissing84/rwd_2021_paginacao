@@ -1,0 +1,36 @@
+
+h1{
+    font-family: Ubuntu, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: deeppink;
+    letter-spacing: 2px;
+}
+
+div{
+   border: 3px solid;
+   width: 550px;
+   height: 100px;
+   left: 400px;
+   top:200px;
+   position: relative;
+   margin-bottom: auto;
+}
+button{
+    font-family: Ubuntu, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}  
+button :hover{
+	color: deeppink;
+}
+.lista ul{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+body{
+    background-color: black;
+}
